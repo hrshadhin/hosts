@@ -1,0 +1,8 @@
+.idea
+venv
+.venv
+__pycache__/
+blacklist
+whitelist
+custom_hosts
+*.log

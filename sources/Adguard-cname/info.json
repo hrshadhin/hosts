@@ -1,0 +1,11 @@
+{
+    "name": "AdguardTeam cname trackers",
+    "description": "CNAME-cloaked tracking abuses.",
+    "category": "ad",
+    "home_url": "https://github.com/AdguardTeam/cname-trackers",
+    "frequency": "occasionally",
+    "issues": "https://github.com/AdguardTeam/cname-trackers/issues",
+    "url": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
+    "file_size": 124023,
+    "license": "MIT"
+}

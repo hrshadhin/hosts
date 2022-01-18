@@ -1,0 +1,10 @@
+{
+    "name": "YouTube Ads 4 Pi-hole",
+    "description": "YouTube Ads DNS to Pi-hole black list",
+    "category": "ad",
+    "home_url": "https://github.com/kboghdady/youTube_ads_4_pi-hole",
+    "frequency": "daily",
+    "issues": "https://github.com/kboghdady/youTube_ads_4_pi-hole/issues",
+    "url": "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
+    "file_size": 39381
+}

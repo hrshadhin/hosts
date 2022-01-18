@@ -1,0 +1,11 @@
+{
+    "name": "UncheckyAds",
+    "description": "Windows installers ads sources sites based on https://unchecky.com/ content.",
+    "category": "ad",
+    "home_url": "https://github.com/FadeMind/hosts.extras",
+    "frequency": "occasionally",
+    "issues": "https://github.com/FadeMind/hosts.extras/issues",
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+    "file_size": 152,
+    "license": "MIT"
+}

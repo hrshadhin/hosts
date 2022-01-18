@@ -1,0 +1,11 @@
+{
+    "name": "MetaMask eth-phishing-detect",
+    "description": "Phishing domains targeting Ethereum users.",
+    "category": "phishing",
+    "home_url": "https://github.com/MetaMask/eth-phishing-detect",
+    "frequency": "frequent",
+    "issues": "https://github.com/MetaMask/eth-phishing-detect/issues",
+    "url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
+    "file_size": 6270,
+    "license": "DON'T BE A DICK PUBLIC LICENSE"
+}

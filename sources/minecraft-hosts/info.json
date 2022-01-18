@@ -1,0 +1,11 @@
+{
+    "name": "minecraft-hosts",
+    "description": "Minecraft related tracker hosts",
+    "category": "tracker",
+    "home_url": "https://github.com/jamiemansfield/minecraft-hosts",
+    "frequency": "occasionally",
+    "issues": "https://github.com/jamiemansfield/minecraft-hosts/issues",
+    "url": "https://raw.githubusercontent.com/jamiemansfield/minecraft-hosts/master/lists/tracking.txt",
+    "file_size": 133,
+    "license": "CC0-1.0"
+}

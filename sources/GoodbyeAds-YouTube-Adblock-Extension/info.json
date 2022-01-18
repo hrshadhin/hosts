@@ -1,0 +1,11 @@
+{
+    "name": "GoodbyeAds",
+    "description": "GoodbyeAds YouTube Adblock Extension",
+    "category": "ad",
+    "home_url": "https://github.com/jerryn70/GoodbyeAds",
+    "frequency": "occasionally",
+    "issues": "https://github.com/jerryn70/GoodbyeAds/issues",
+    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt",
+    "file_size": 404155,
+    "license": "MIT"
+}

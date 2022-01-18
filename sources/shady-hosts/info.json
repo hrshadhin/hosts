@@ -1,0 +1,11 @@
+{
+    "name": "shady-hosts",
+    "description": "Analytics, ad, and activity monitoring hosts",
+    "category": "ad",
+    "home_url": "https://github.com/shreyasminocha/shady-hosts",
+    "frequency": "occasionally",
+    "issues": "https://github.com/shreyasminocha/shady-hosts/issues",
+    "url": "https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts",
+    "file_size": 3221,
+    "license": "CC0-1.0"
+}

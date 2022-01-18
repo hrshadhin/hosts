@@ -1,0 +1,11 @@
+{
+    "name": "osint.digitalside.it",
+    "description": "DigitalSide Threat-Intel malware domains list.",
+    "category": "malware",
+    "home_url": "https://github.com/davidonzo/Threat-Intel",
+    "frequency": "daily",
+    "issues": "https://github.com/davidonzo/Threat-Intel/issues",
+    "url": "https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt",
+    "file_size": 9979,
+    "license": "MIT"
+}

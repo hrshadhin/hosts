@@ -1,0 +1,11 @@
+{
+    "name": "URLHaus",
+    "description": "A project from [abuse.ch](https://abuse.ch/) with the goal of sharing malicious URLs.",
+    "category": "malware",
+    "home_url": "https://urlhaus.abuse.ch/",
+    "frequency": "weekly",
+    "issues": "mailto:contactme@abuse.ch",
+    "url": "https://urlhaus.abuse.ch/downloads/hostfile/",
+    "file_size": 10913,
+    "license": "CC0"
+}

@@ -1,0 +1,1 @@
+0 1 * * * cd /<full_path>/hosts && source venv/bin/activate && ./update.sh > cron.log 2>&1
