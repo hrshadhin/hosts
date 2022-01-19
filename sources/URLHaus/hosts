@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-01-19 19:29:04 (UTC)                      #
+# Last updated: 2022-01-19 19:39:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -62,6 +62,7 @@
 127.0.0.1	advconstructora.cl
 127.0.0.1	afavoritacouros.com.br
 127.0.0.1	agdm.ml
+127.0.0.1	agemn.co.za
 127.0.0.1	agrawaljeweller.com
 127.0.0.1	aimeos.softuvo.xyz
 127.0.0.1	aiqtest.com
@@ -75,7 +76,6 @@
 127.0.0.1	alignerpliers.com
 127.0.0.1	alkalinefusion.com
 127.0.0.1	alltestagain.lukehadaj.com.au
-127.0.0.1	alruwayuh.com
 127.0.0.1	altai-prop.ru
 127.0.0.1	amarteargentina.com.ar
 127.0.0.1	amazingshowerdoor.ca
@@ -141,6 +141,7 @@
 127.0.0.1	ballatstone.com
 127.0.0.1	banekarlabz.in
 127.0.0.1	bangkok-orchids.com
+127.0.0.1	bank.zanderscloud.com.ng
 127.0.0.1	barkodsolutions.com
 127.0.0.1	baumann.ga
 127.0.0.1	bawatingbarter.com
@@ -196,7 +197,6 @@
 127.0.0.1	brightmega.com
 127.0.0.1	brightstarshop.com
 127.0.0.1	bucbuc.in
-127.0.0.1	buigiaphat.com.vn
 127.0.0.1	buildotech.com
 127.0.0.1	bukuonline2u.com
 127.0.0.1	bullionvaultlogistics.com
@@ -350,6 +350,7 @@
 127.0.0.1	deti.czsv.dp.ua
 127.0.0.1	dev.beneficialelectrification-co.com
 127.0.0.1	dev.crystalclearvapestore.co.uk
+127.0.0.1	dev.muramasa-fm.ga
 127.0.0.1	dev.sebpo.net
 127.0.0.1	dev.sonicartoriginals.com
 127.0.0.1	dev2-admin.ycbnt.net
@@ -388,6 +389,7 @@
 127.0.0.1	drive.google.com.it-barcelona.com
 127.0.0.1	drkalan.com
 127.0.0.1	drsha.innovativesolutions.mobi
+127.0.0.1	dsenterprize.co.za
 127.0.0.1	du-wizards.com
 127.0.0.1	dubai68vnn.online
 127.0.0.1	dukaree.com
@@ -405,7 +407,6 @@
 127.0.0.1	earthtech.io
 127.0.0.1	eastmatt.com
 127.0.0.1	easybrand.vn
-127.0.0.1	easyfitcr.com
 127.0.0.1	easyviettravel.vn
 127.0.0.1	ecim.azneomedia.ro
 127.0.0.1	ecoplastindia.in
@@ -433,6 +434,7 @@
 127.0.0.1	es.islamforchristians.com
 127.0.0.1	eslomingenieria.com.ar
 127.0.0.1	esolomon.prestonbmws.com
+127.0.0.1	espaciosama.com.ar
 127.0.0.1	estiloymadera.com.py
 127.0.0.1	estudiogflz.com.ar
 127.0.0.1	etisalatbuyback.com
@@ -445,6 +447,7 @@
 127.0.0.1	extractjob.com
 127.0.0.1	f.gogamef.com
 127.0.0.1	faai-international.com
+127.0.0.1	fbtautotrade.com
 127.0.0.1	fc.co.mz
 127.0.0.1	fc.proyectosonline.xyz
 127.0.0.1	felicienne.nl
@@ -473,6 +476,7 @@
 127.0.0.1	fse.in.ua
 127.0.0.1	fullelectronica.com.ar
 127.0.0.1	fundingxperts.com
+127.0.0.1	funiajc.com
 127.0.0.1	funletters.net
 127.0.0.1	furyx.de
 127.0.0.1	futbolpr.com
@@ -485,6 +489,7 @@
 127.0.0.1	gardenmanagementserv.demo9lec.co.za
 127.0.0.1	gdyakali.com
 127.0.0.1	geetanjaliconstructions.com
+127.0.0.1	geo-lines.com
 127.0.0.1	geoportshippingandlogistics.delivery
 127.0.0.1	getbetadeal.com.ng
 127.0.0.1	gins-afro.com
@@ -564,7 +569,6 @@
 127.0.0.1	iandfcoolingcoils.com
 127.0.0.1	ibooking.campaignhub.net
 127.0.0.1	ica.apiperu.net.pe
-127.0.0.1	icmarkets-zhg.cn
 127.0.0.1	id-tiara.com
 127.0.0.1	idcard.northerntrader.net
 127.0.0.1	idilsoft.com
@@ -935,7 +939,6 @@
 127.0.0.1	pink99.com
 127.0.0.1	piura.apiperu.net.pe
 127.0.0.1	pivot-to-virtual.com
-127.0.0.1	pixelbot.id
 127.0.0.1	pixeleyenow.com
 127.0.0.1	pizza-italia.hu
 127.0.0.1	pjecalcplus.com
@@ -1444,7 +1447,6 @@
 127.0.0.1	www.urokingdom.com
 127.0.0.1	www.vivacuscoperu.com
 127.0.0.1	www.weinsteincounseling.com
-127.0.0.1	www.witumart.com
 127.0.0.1	www.wizumiya.co.jp
 127.0.0.1	www.wpkms.com
 127.0.0.1	www.wutaideng.wang
@@ -1479,4 +1481,5 @@
 127.0.0.1	zoe-major.com
 127.0.0.1	zofer.com.br
 127.0.0.1	zoomsirjan.ir
-# Number of entries: 1473
+127.0.0.1	ztekkhosting.com
+# Number of entries: 1476
