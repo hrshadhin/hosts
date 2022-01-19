@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-01-19 19:24:06 (UTC)                      #
+# Last updated: 2022-01-19 19:29:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -75,6 +75,7 @@
 127.0.0.1	alignerpliers.com
 127.0.0.1	alkalinefusion.com
 127.0.0.1	alltestagain.lukehadaj.com.au
+127.0.0.1	alruwayuh.com
 127.0.0.1	altai-prop.ru
 127.0.0.1	amarteargentina.com.ar
 127.0.0.1	amazingshowerdoor.ca
@@ -114,6 +115,7 @@
 127.0.0.1	asy-syifa.com
 127.0.0.1	atplengineering.com
 127.0.0.1	audreysystems.net
+127.0.0.1	aulist.com
 127.0.0.1	auto.lambolero.com
 127.0.0.1	autoemail.zpesport.com
 127.0.0.1	autofficinaguerreri.it
@@ -139,7 +141,6 @@
 127.0.0.1	ballatstone.com
 127.0.0.1	banekarlabz.in
 127.0.0.1	bangkok-orchids.com
-127.0.0.1	bank.zanderscloud.com.ng
 127.0.0.1	barkodsolutions.com
 127.0.0.1	baumann.ga
 127.0.0.1	bawatingbarter.com
@@ -162,7 +163,6 @@
 127.0.0.1	bientannamhuy.com
 127.0.0.1	bigdogmarketer.com
 127.0.0.1	biglyt.net
-127.0.0.1	bigmikesupplies.co.za
 127.0.0.1	birazporn.site
 127.0.0.1	bisnesservis-fk.ru
 127.0.0.1	bitcoin-up.fomentomunivina.cl
@@ -277,6 +277,7 @@
 127.0.0.1	compraraqui.com.br
 127.0.0.1	computec-zim.com.mx
 127.0.0.1	comsatnet.com
+127.0.0.1	confebrinde.pt
 127.0.0.1	config.cqhbkjzx.com
 127.0.0.1	conquestcapital.co.ke
 127.0.0.1	contaeuropa.ao
@@ -308,6 +309,7 @@
 127.0.0.1	cursodeparapsicologia.org
 127.0.0.1	cusco.apiperu.net.pe
 127.0.0.1	cushyscl.com.bd
+127.0.0.1	customtshirt.sogoflowers.com
 127.0.0.1	cynkon.kairoscs.net
 127.0.0.1	d.powerofwish.com
 127.0.0.1	d9.99ddd.com
@@ -386,7 +388,6 @@
 127.0.0.1	drive.google.com.it-barcelona.com
 127.0.0.1	drkalan.com
 127.0.0.1	drsha.innovativesolutions.mobi
-127.0.0.1	dsenterprize.co.za
 127.0.0.1	du-wizards.com
 127.0.0.1	dubai68vnn.online
 127.0.0.1	dukaree.com
@@ -404,6 +405,7 @@
 127.0.0.1	earthtech.io
 127.0.0.1	eastmatt.com
 127.0.0.1	easybrand.vn
+127.0.0.1	easyfitcr.com
 127.0.0.1	easyviettravel.vn
 127.0.0.1	ecim.azneomedia.ro
 127.0.0.1	ecoplastindia.in
@@ -417,6 +419,7 @@
 127.0.0.1	ekatmata.com
 127.0.0.1	elbauldelosregalos.com
 127.0.0.1	elearning.physiotraining.com.gt
+127.0.0.1	electrocruzeiro.com
 127.0.0.1	elsacavazos.com
 127.0.0.1	emaids.co.za
 127.0.0.1	emegablog.com
@@ -442,8 +445,6 @@
 127.0.0.1	extractjob.com
 127.0.0.1	f.gogamef.com
 127.0.0.1	faai-international.com
-127.0.0.1	familydentist.site
-127.0.0.1	fbtautotrade.com
 127.0.0.1	fc.co.mz
 127.0.0.1	fc.proyectosonline.xyz
 127.0.0.1	felicienne.nl
@@ -547,6 +548,7 @@
 127.0.0.1	houstonshutters.site
 127.0.0.1	howimetyourdata.com
 127.0.0.1	hr2019.vrcom7.com
+127.0.0.1	hrlinkedasia.com
 127.0.0.1	hrm.shopquare.in
 127.0.0.1	hsecaravans.co.uk
 127.0.0.1	hseda.com
@@ -620,6 +622,7 @@
 127.0.0.1	juancarloshernandez.us
 127.0.0.1	jurnalismictv.com
 127.0.0.1	justinscott.com.au
+127.0.0.1	kaartinen.org
 127.0.0.1	kadigital.co.uk
 127.0.0.1	kadingibi.com
 127.0.0.1	kalpataru-eternia.in
@@ -753,6 +756,7 @@
 127.0.0.1	members.artasedanasingaraja.com
 127.0.0.1	mentaos.kim.banjarbarukota.go.id
 127.0.0.1	mercadoguapi.com.br
+127.0.0.1	mestredasreparacoes24.pt
 127.0.0.1	metro.fingerbus.cn
 127.0.0.1	mex035.com
 127.0.0.1	mexedap.vn
@@ -822,6 +826,7 @@
 127.0.0.1	necocheasexshop.com
 127.0.0.1	neoxora.lk
 127.0.0.1	nettube.com.br
+127.0.0.1	networkwheels.co.za
 127.0.0.1	nevermiss.su
 127.0.0.1	new.maashantiskills.com
 127.0.0.1	newdata.sogoflowers.com
@@ -843,6 +848,7 @@
 127.0.0.1	notesculture.com
 127.0.0.1	ns1.the-widyantos.com
 127.0.0.1	nsb.org.uk
+127.0.0.1	ntust-arch-2021-api.monoame.com
 127.0.0.1	nwx.mwtbusiness.com
 127.0.0.1	o2omart.co.in
 127.0.0.1	oblivioperfumes.com
@@ -982,6 +988,7 @@
 127.0.0.1	quantacoffee.com
 127.0.0.1	quarkintl.id
 127.0.0.1	quieretecentrosanitario.com
+127.0.0.1	quranthemepark.com
 127.0.0.1	qureshitrust.com
 127.0.0.1	raikus.com
 127.0.0.1	rainbowisp.info
@@ -1056,6 +1063,7 @@
 127.0.0.1	server.easysalepage.in.th
 127.0.0.1	service.easytrace.mn
 127.0.0.1	setup6.com
+127.0.0.1	seven-lines.com
 127.0.0.1	sewamobilsolonesia.com
 127.0.0.1	sewaproyektormurah.com
 127.0.0.1	sexologistpakistan.net
@@ -1144,7 +1152,6 @@
 127.0.0.1	support.clz.kr
 127.0.0.1	support.xpixely.com
 127.0.0.1	supportit.online
-127.0.0.1	supratimpurkait.com
 127.0.0.1	suryatp.com
 127.0.0.1	suske-en-wiske.nl
 127.0.0.1	swmen.com
@@ -1273,6 +1280,7 @@
 127.0.0.1	vksales.com
 127.0.0.1	vl3x.top
 127.0.0.1	vnamazon.vn
+127.0.0.1	vnvoron.xyz
 127.0.0.1	volkscantonalbank.com
 127.0.0.1	vone.co.id
 127.0.0.1	votinesia.com
@@ -1312,6 +1320,7 @@
 127.0.0.1	wordpress08.aftershipdemo.com
 127.0.0.1	wordpress11.aftershipdemo.com
 127.0.0.1	wordpress13.aftershipdemo.com
+127.0.0.1	wordpress15.aftershipdemo.com
 127.0.0.1	wordpressdes.vanzolini-gte.org.br
 127.0.0.1	wordray.net
 127.0.0.1	worldofjain.com
@@ -1456,6 +1465,7 @@
 127.0.0.1	yazilim.2crankara.com
 127.0.0.1	yeichner.com
 127.0.0.1	yestech.com.ng
+127.0.0.1	yjhgov.vip
 127.0.0.1	yonka-centr.ru
 127.0.0.1	yougandan.com
 127.0.0.1	yp.hnggzyjy.cn
@@ -1469,5 +1479,4 @@
 127.0.0.1	zoe-major.com
 127.0.0.1	zofer.com.br
 127.0.0.1	zoomsirjan.ir
-127.0.0.1	ztekkhosting.com
-# Number of entries: 1464
+# Number of entries: 1473

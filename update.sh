@@ -10,8 +10,9 @@
 
 source venv/bin/activate
 echo "*********** + ***********"
+make pull
+echo "*********** + ***********"
 make build-for-hrs
 echo "*********** + ***********"
-make pull
 make push
 echo "*********** 0 ***********"
