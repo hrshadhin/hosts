@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-01-19 18:44:08 (UTC)                      #
+# Last updated: 2022-01-19 18:56:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -148,6 +148,7 @@
 127.0.0.1	bbia.co.uk
 127.0.0.1	bbw918.com
 127.0.0.1	beanx99.xyz
+127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	bedwards.prestonbmws.com
 127.0.0.1	beem.id
 127.0.0.1	beemployer.in
@@ -226,7 +227,6 @@
 127.0.0.1	castlenkings.com
 127.0.0.1	cat.maletasoriginales.eu
 127.0.0.1	cbn.hypervoizd.com
-127.0.0.1	ccatwillowcreek.com
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdn.riowt.top
 127.0.0.1	celhocortofilmfestival.stream
@@ -388,7 +388,6 @@
 127.0.0.1	drive.google.com.it-barcelona.com
 127.0.0.1	drkalan.com
 127.0.0.1	drsha.innovativesolutions.mobi
-127.0.0.1	dsenterprize.co.za
 127.0.0.1	du-wizards.com
 127.0.0.1	dubai68vnn.online
 127.0.0.1	dukaree.com
@@ -574,6 +573,7 @@
 127.0.0.1	ikomfort.hk
 127.0.0.1	iloop.sourcetaggers.com
 127.0.0.1	images.jermiau.com
+127.0.0.1	imbueautoworx.co.za
 127.0.0.1	immoinvest.com.br
 127.0.0.1	immunotec.network
 127.0.0.1	imobiles.pk
@@ -606,6 +606,7 @@
 127.0.0.1	jayambikadevelopers.com
 127.0.0.1	jcedu.org
 127.0.0.1	jcon.in
+127.0.0.1	jdkems.com
 127.0.0.1	jebs.net.au
 127.0.0.1	jeffdahlke.com
 127.0.0.1	jessica.globodyinc.biz
@@ -747,7 +748,6 @@
 127.0.0.1	medianews.ge
 127.0.0.1	mediaterdepan.com
 127.0.0.1	meeweb.com
-127.0.0.1	mega918kiss.com
 127.0.0.1	megabyte-xtnegocios.com
 127.0.0.1	megagynreformas.com.br
 127.0.0.1	megatrussglobal.co.id
@@ -805,6 +805,7 @@
 127.0.0.1	my-game.biz
 127.0.0.1	my-test.crmok.com.ua
 127.0.0.1	myadmission.top
+127.0.0.1	mycloud.suplitecmo.com
 127.0.0.1	myflashnet.id
 127.0.0.1	myhealthtrack-ta-api.brettyates.com
 127.0.0.1	myhobbyjapan.com
@@ -831,6 +832,7 @@
 127.0.0.1	nextdigitalday.ru
 127.0.0.1	ngdaycare.co.za
 127.0.0.1	nhadattyhung.com
+127.0.0.1	nhorangtreem.com
 127.0.0.1	nienke.studioabove.nl
 127.0.0.1	nikonikoniko.com
 127.0.0.1	nissan-automotorsport.com
@@ -854,7 +856,6 @@
 127.0.0.1	ofuretamesure.com
 127.0.0.1	ohsewgorgeous.co.uk
 127.0.0.1	ojetworldwide.org
-127.0.0.1	oknoplastik.sk
 127.0.0.1	old.cybers.com.ua
 127.0.0.1	old.liceum9.ru
 127.0.0.1	oleholeh.memangbeda.website
@@ -885,7 +886,6 @@
 127.0.0.1	otopmarketshop.com
 127.0.0.1	outdoortacklebox.com
 127.0.0.1	overdrive.id
-127.0.0.1	ozemag.com
 127.0.0.1	ozvita.club
 127.0.0.1	ozzyingilizce.com
 127.0.0.1	p2.d9media.cn
@@ -1057,7 +1057,6 @@
 127.0.0.1	sepantacorp.ir
 127.0.0.1	server.easysalepage.in.th
 127.0.0.1	service.easytrace.mn
-127.0.0.1	serviciovirtual.com.ar
 127.0.0.1	setup6.com
 127.0.0.1	sewamobilsolonesia.com
 127.0.0.1	sewaproyektormurah.com
@@ -1137,6 +1136,7 @@
 127.0.0.1	stemartoursandtravels.com
 127.0.0.1	stermygh.com
 127.0.0.1	sticker.jewsjuice.com
+127.0.0.1	stylesheet.faseaegasdfase.com
 127.0.0.1	submissions.tentcityrecords.net
 127.0.0.1	succeedandshinetraining.com
 127.0.0.1	sunpos.in
@@ -1203,6 +1203,7 @@
 127.0.0.1	tianangdep.com
 127.0.0.1	timamollo.co.za
 127.0.0.1	timegonebuy.com
+127.0.0.1	tirbl.com
 127.0.0.1	titikjitu.com
 127.0.0.1	tk.w3.eyeteam.vn
 127.0.0.1	tn-itl.com
@@ -1378,6 +1379,7 @@
 127.0.0.1	www.izeltelekom.com
 127.0.0.1	www.j2prints.com
 127.0.0.1	www.jerminpelle.com
+127.0.0.1	www.jxjzzy.com
 127.0.0.1	www.kjcpromo.com
 127.0.0.1	www.ks.cn
 127.0.0.1	www.landing.yetiapp.ec
@@ -1419,6 +1421,7 @@
 127.0.0.1	www.startcode.co.il
 127.0.0.1	www.sterlitecamotech.com
 127.0.0.1	www.supplierboxermagnet.com
+127.0.0.1	www.sxhxrj.com
 127.0.0.1	www.szsygs.com
 127.0.0.1	www.techmedia.mg
 127.0.0.1	www.teknoarge.com
@@ -1465,4 +1468,5 @@
 127.0.0.1	zoe-major.com
 127.0.0.1	zofer.com.br
 127.0.0.1	zoomsirjan.ir
-# Number of entries: 1459
+127.0.0.1	ztekkhosting.com
+# Number of entries: 1463
