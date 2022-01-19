@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-01-19 18:23:33 (UTC)                      #
+# Last updated: 2022-01-19 18:44:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -53,7 +53,6 @@
 127.0.0.1	acts-portal-live.serverdatahost.com
 127.0.0.1	adeniyisaleem.com
 127.0.0.1	adeoba.com
-127.0.0.1	adityasolsurf.in
 127.0.0.1	adl-asia.com
 127.0.0.1	admin.classified.pointsource.ng
 127.0.0.1	admin.gentbcn.org
@@ -115,6 +114,7 @@
 127.0.0.1	asu.com.vn
 127.0.0.1	asy-syifa.com
 127.0.0.1	atplengineering.com
+127.0.0.1	audreysystems.net
 127.0.0.1	aulist.com
 127.0.0.1	auto.lambolero.com
 127.0.0.1	autoemail.zpesport.com
@@ -138,7 +138,6 @@
 127.0.0.1	badeggdesign.com
 127.0.0.1	badmakeup.biz
 127.0.0.1	bakoloni.site
-127.0.0.1	ballatstone.com
 127.0.0.1	banekarlabz.in
 127.0.0.1	bangkok-orchids.com
 127.0.0.1	bank.zanderscloud.com.ng
@@ -211,6 +210,7 @@
 127.0.0.1	caballo.com.au
 127.0.0.1	cable-online.ir
 127.0.0.1	caioaraujo.vip
+127.0.0.1	cairohosp-dev.tk
 127.0.0.1	callao.apiperu.net.pe
 127.0.0.1	callswayroofco.com
 127.0.0.1	camminachetipassa.it
@@ -256,6 +256,7 @@
 127.0.0.1	ciidental.com.ec
 127.0.0.1	cimcpatna.com
 127.0.0.1	ciroflores.com
+127.0.0.1	citihits.lk
 127.0.0.1	citiqproperties.co.za
 127.0.0.1	cittadinomondo.com
 127.0.0.1	clade.de
@@ -344,6 +345,7 @@
 127.0.0.1	descargas.quarzo.com
 127.0.0.1	designerliving.co.za
 127.0.0.1	designoweb.website
+127.0.0.1	destinymc.co.za
 127.0.0.1	detailboxuniqgarage.com
 127.0.0.1	deti.czsv.dp.ua
 127.0.0.1	dev.beneficialelectrification-co.com
@@ -418,6 +420,7 @@
 127.0.0.1	ekatmata.com
 127.0.0.1	elbauldelosregalos.com
 127.0.0.1	elearning.physiotraining.com.gt
+127.0.0.1	electrocruzeiro.com
 127.0.0.1	elsacavazos.com
 127.0.0.1	emaids.co.za
 127.0.0.1	emegablog.com
@@ -427,6 +430,7 @@
 127.0.0.1	endoinstruments.co.uk
 127.0.0.1	endpointwellness.com
 127.0.0.1	entelkoy.net
+127.0.0.1	erebate.in
 127.0.0.1	ergotherapeia-kalamata.gr
 127.0.0.1	es.islamforchristians.com
 127.0.0.1	eslomingenieria.com.ar
@@ -490,11 +494,9 @@
 127.0.0.1	getbetadeal.com.ng
 127.0.0.1	gins-afro.com
 127.0.0.1	global-dis.com
-127.0.0.1	globalprod.ru
 127.0.0.1	gml.sogoflowers.com
 127.0.0.1	gocnhotaichinh.com
 127.0.0.1	godubai.club
-127.0.0.1	godzuwaglobalventures.com
 127.0.0.1	goldenasiacapital.com
 127.0.0.1	gp.gamebuy768.com
 127.0.0.1	gpoleri.com.ar
@@ -572,7 +574,6 @@
 127.0.0.1	ikomfort.hk
 127.0.0.1	iloop.sourcetaggers.com
 127.0.0.1	images.jermiau.com
-127.0.0.1	imbueautoworx.co.za
 127.0.0.1	immoinvest.com.br
 127.0.0.1	immunotec.network
 127.0.0.1	imobiles.pk
@@ -605,7 +606,6 @@
 127.0.0.1	jayambikadevelopers.com
 127.0.0.1	jcedu.org
 127.0.0.1	jcon.in
-127.0.0.1	jdkems.com
 127.0.0.1	jebs.net.au
 127.0.0.1	jeffdahlke.com
 127.0.0.1	jessica.globodyinc.biz
@@ -708,6 +708,7 @@
 127.0.0.1	madicon.co.za
 127.0.0.1	madrededios.apiperu.net.pe
 127.0.0.1	mail.agreatfurnitureplace.com
+127.0.0.1	mail.bs-eiendomme.co.za
 127.0.0.1	mail.emilyanncain.com
 127.0.0.1	mail.filastiniyat.org
 127.0.0.1	mainmainsaiboard.xyz
@@ -715,7 +716,6 @@
 127.0.0.1	maison-du-parc.com
 127.0.0.1	makeupuccino.com
 127.0.0.1	mall.payarena.com
-127.0.0.1	maltepecastajanslari.bykmedya.com
 127.0.0.1	mammy-chiro.com
 127.0.0.1	mangatanews.com
 127.0.0.1	mapa.cepiadet.org
@@ -733,7 +733,6 @@
 127.0.0.1	matong47.com
 127.0.0.1	mawroyalmedia.com.ng
 127.0.0.1	maximus.ge
-127.0.0.1	maychieusieunet.com
 127.0.0.1	mbgrm.com
 127.0.0.1	mbologwuholing.co.ug
 127.0.0.1	mbsolutions.ge
@@ -748,6 +747,7 @@
 127.0.0.1	medianews.ge
 127.0.0.1	mediaterdepan.com
 127.0.0.1	meeweb.com
+127.0.0.1	mega918kiss.com
 127.0.0.1	megabyte-xtnegocios.com
 127.0.0.1	megagynreformas.com.br
 127.0.0.1	megatrussglobal.co.id
@@ -766,6 +766,7 @@
 127.0.0.1	mijinogu.com
 127.0.0.1	mikhailmotoringschool.com
 127.0.0.1	milhojas.is
+127.0.0.1	minareklam.com.tr
 127.0.0.1	mingbo.com
 127.0.0.1	minhducgroup.com.vn
 127.0.0.1	miotsukushi.tokyo
@@ -791,10 +792,12 @@
 127.0.0.1	mpesa.shuleyanguonline.co.ke
 127.0.0.1	mr-iroonia.ir
 127.0.0.1	mr-mahmoud-hassan.com
+127.0.0.1	mta-sts.mx.theblindgardener.com
 127.0.0.1	mtgxpipeline.com
 127.0.0.1	mtmusicaemercado.com.br
 127.0.0.1	multilanguage.com.mx
 127.0.0.1	multilevelcarparkingindia.com
+127.0.0.1	mumgee.co.za
 127.0.0.1	mut-zur-bruecke.eu
 127.0.0.1	muzimbiti.xigubo.co.mz
 127.0.0.1	mvb.kz
@@ -820,7 +823,6 @@
 127.0.0.1	necocheasexshop.com
 127.0.0.1	neoxora.lk
 127.0.0.1	nettube.com.br
-127.0.0.1	networkwheels.co.za
 127.0.0.1	nevermiss.su
 127.0.0.1	new.maashantiskills.com
 127.0.0.1	newdata.sogoflowers.com
@@ -829,7 +831,6 @@
 127.0.0.1	nextdigitalday.ru
 127.0.0.1	ngdaycare.co.za
 127.0.0.1	nhadattyhung.com
-127.0.0.1	nhorangtreem.com
 127.0.0.1	nienke.studioabove.nl
 127.0.0.1	nikonikoniko.com
 127.0.0.1	nissan-automotorsport.com
@@ -853,6 +854,7 @@
 127.0.0.1	ofuretamesure.com
 127.0.0.1	ohsewgorgeous.co.uk
 127.0.0.1	ojetworldwide.org
+127.0.0.1	oknoplastik.sk
 127.0.0.1	old.cybers.com.ua
 127.0.0.1	old.liceum9.ru
 127.0.0.1	oleholeh.memangbeda.website
@@ -975,6 +977,7 @@
 127.0.0.1	pulsoboxarmenia.com
 127.0.0.1	punjabdevelopersassociation.com.pk
 127.0.0.1	puno.apiperu.net.pe
+127.0.0.1	pvcprinting.co.uk
 127.0.0.1	qe.jupiterstar.ru
 127.0.0.1	qmsled.com
 127.0.0.1	quantacoffee.com
@@ -1098,6 +1101,7 @@
 127.0.0.1	social.speaker20.com
 127.0.0.1	sociofans.com
 127.0.0.1	sodovip88.com
+127.0.0.1	soft.110route.com
 127.0.0.1	softisans.com
 127.0.0.1	softpointng.com
 127.0.0.1	softstructures.net
@@ -1167,6 +1171,7 @@
 127.0.0.1	techsoftweb.com.br
 127.0.0.1	techtoauto.com
 127.0.0.1	techybhai.online
+127.0.0.1	tehkrip.formatica.agency
 127.0.0.1	tekbaz.com
 127.0.0.1	temptmag.com
 127.0.0.1	tepsikunefe.com.tr
@@ -1270,7 +1275,6 @@
 127.0.0.1	vone.co.id
 127.0.0.1	votinesia.com
 127.0.0.1	vplatform.ae
-127.0.0.1	vpts.co.za
 127.0.0.1	vulkanvegasbonus.jeunete.com
 127.0.0.1	w1.zypaint.com
 127.0.0.1	wakanaija.com.ng
@@ -1427,6 +1431,7 @@
 127.0.0.1	www.urokingdom.com
 127.0.0.1	www.vivacuscoperu.com
 127.0.0.1	www.weinsteincounseling.com
+127.0.0.1	www.witumart.com
 127.0.0.1	www.wizumiya.co.jp
 127.0.0.1	www.wpkms.com
 127.0.0.1	www.wutaideng.wang
@@ -1460,5 +1465,4 @@
 127.0.0.1	zoe-major.com
 127.0.0.1	zofer.com.br
 127.0.0.1	zoomsirjan.ir
-127.0.0.1	ztekkhosting.com
-# Number of entries: 1455
+# Number of entries: 1459
