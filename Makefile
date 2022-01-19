@@ -48,5 +48,5 @@ pull: ### Pull from git repository
 push: ### Push to git repository
 	@echo "pushing changes to git remote"
 	@git add .
-	@git commit -m "hosts updated"
+	@git commit -m "update hosts"
 	@git push -u origin master
