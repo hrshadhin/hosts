@@ -6,6 +6,6 @@
     "frequency": "daily",
     "issues": "https://github.com/davidonzo/Threat-Intel/issues",
     "url": "https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt",
-    "file_size": 10790,
+    "file_size": 10929,
     "license": "MIT"
 }
