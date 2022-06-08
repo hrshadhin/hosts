@@ -24,7 +24,7 @@ build-bb-list: ## Update block list for Blocky(DNS proxy)
 
 build-for-hrs: ## Update files for HRS
 	@echo "updating hosts files..."
-	@python update_hosts_file.py
+	@python update_hosts_file.py -s
 	@echo "*********** + ***********"
 	@echo "updating slim hosts file..."
 	@python update_hosts_file.py -n -nr -m -s -e -o bb_list.txt
