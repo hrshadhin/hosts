@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 30 Dec 2022, 21:18 UTC+01:00
-# Version: 2022.12.30.3
+# Last modified: Sat, 31 Dec 2022, 21:17 UTC+01:00
+# Version: 2022.12.31.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -1345,6 +1345,7 @@
 0.0.0.0 moneywin24.com
 0.0.0.0 monsire.shop
 0.0.0.0 moonbootpolska.com
+0.0.0.0 moonbootpolskapl.com
 0.0.0.0 mopik.pl
 0.0.0.0 moreti.pl
 0.0.0.0 mosqiteer.eu
@@ -3757,6 +3758,7 @@
 0.0.0.0 www.moneywin24.com
 0.0.0.0 www.monsire.shop
 0.0.0.0 www.moonbootpolska.com
+0.0.0.0 www.moonbootpolskapl.com
 0.0.0.0 www.mopik.pl
 0.0.0.0 www.moreti.pl
 0.0.0.0 www.mosqiteer.eu
@@ -5170,7 +5172,6 @@
 0.0.0.0 onlybest-deal4u.com
 0.0.0.0 oo.waw.pl
 0.0.0.0 overorlenpost.my-free.website
-0.0.0.0 padslims.com
 0.0.0.0 parafia-krzymow.pl
 0.0.0.0 parafiagoscino.pl
 0.0.0.0 pay.onebip.com
@@ -5392,7 +5393,6 @@
 0.0.0.0 www.onlybest-deal4u.com
 0.0.0.0 www.oo.waw.pl
 0.0.0.0 www.overorlenpost.my-free.website
-0.0.0.0 www.padslims.com
 0.0.0.0 www.parafia-krzymow.pl
 0.0.0.0 www.parafiagoscino.pl
 0.0.0.0 www.pay.onebip.com
@@ -7912,6 +7912,7 @@
 0.0.0.0 auth-digitale.com
 0.0.0.0 auth-feedback17-amzn.duckdns.org
 0.0.0.0 auth-link.pw
+0.0.0.0 auth-web-apps.com
 0.0.0.0 auth-zonda-exchange.mmsnm.com
 0.0.0.0 auth.app-zonda.site
 0.0.0.0 auth.esports-cast.icu
@@ -8177,6 +8178,7 @@
 0.0.0.0 balans-zycia.eu
 0.0.0.0 balefullyj.com
 0.0.0.0 balekis.com
+0.0.0.0 balender3d.com
 0.0.0.0 balera.pl
 0.0.0.0 baletis.com
 0.0.0.0 balezka.com
@@ -13323,6 +13325,7 @@
 0.0.0.0 dichasialq.pl
 0.0.0.0 dicknorrismail.com
 0.0.0.0 diclinism.com
+0.0.0.0 dicsord-snows.com
 0.0.0.0 dicsord-tool.com
 0.0.0.0 dicsordnitros.com
 0.0.0.0 dicsrod-gifts.com
@@ -13816,6 +13819,7 @@
 0.0.0.0 dostawa.id63418494.info
 0.0.0.0 dostawa.id132598643.com
 0.0.0.0 dostawa.id193629916.com
+0.0.0.0 dostawanaczas.com
 0.0.0.0 dostawapl.safe-security.website
 0.0.0.0 dostawapoland-info.xyz
 0.0.0.0 dostawc-wjntedpolska-9842.dostawaypln003.space
@@ -18436,6 +18440,7 @@
 0.0.0.0 in-post-pl-myid272xs.lessformore.life
 0.0.0.0 in-post-pl-myid272xs.liaoyang.xyz
 0.0.0.0 in-post-pl-myid272xs.limello.live
+0.0.0.0 in-post-pl-myid272xs.lovelb.top
 0.0.0.0 in-post-pl-myid272xs.lu2396.top
 0.0.0.0 in-post-pl-myid272xs.nawkf.top
 0.0.0.0 in-post-pl-myid272xs.ohlucah.top
@@ -19631,6 +19636,7 @@
 0.0.0.0 inpost-pl-gse.id-2323.me
 0.0.0.0 inpost-pl-hid226ks.abin.shop
 0.0.0.0 inpost-pl-hid226ks.adsnet4all.com
+0.0.0.0 inpost-pl-hid226ks.antenaj3.xyz
 0.0.0.0 inpost-pl-hid226ks.avmoo.top
 0.0.0.0 inpost-pl-hid226ks.berare.shop
 0.0.0.0 inpost-pl-hid226ks.boeno.top
@@ -26542,6 +26548,7 @@
 0.0.0.0 my-blog.prosinv.site
 0.0.0.0 my-bnpparibas.com
 0.0.0.0 my-chatprogram.xyz
+0.0.0.0 my-diya-inc.com
 0.0.0.0 my-ininit.alxprogs.xyz
 0.0.0.0 my-order.biz
 0.0.0.0 my-paylife.at.cfolks.pl
@@ -26998,6 +27005,7 @@
 0.0.0.0 netfllipl.com
 0.0.0.0 netfllpl.com
 0.0.0.0 netflnza.com
+0.0.0.0 netflspl.com
 0.0.0.0 netfluxtvvv.com.pl
 0.0.0.0 netfluxtvvv.pl
 0.0.0.0 netflwpl.com
@@ -34260,6 +34268,8 @@
 0.0.0.0 profil-ocena.eu
 0.0.0.0 profile-posty.eu
 0.0.0.0 profinwest-pl.com
+0.0.0.0 profisthebitsera-po.betulaup.com
+0.0.0.0 profisthebitsera-po.fababeok.com
 0.0.0.0 profisthebitsera-po.lexogyic.com
 0.0.0.0 profisthebitsera-po.tidodaiw.com
 0.0.0.0 profit-blogs.info
@@ -46300,6 +46310,7 @@
 0.0.0.0 www.auth-digitale.com
 0.0.0.0 www.auth-feedback17-amzn.duckdns.org
 0.0.0.0 www.auth-link.pw
+0.0.0.0 www.auth-web-apps.com
 0.0.0.0 www.auth-zonda-exchange.mmsnm.com
 0.0.0.0 www.auth.app-zonda.site
 0.0.0.0 www.auth.esports-cast.icu
@@ -46565,6 +46576,7 @@
 0.0.0.0 www.balans-zycia.eu
 0.0.0.0 www.balefullyj.com
 0.0.0.0 www.balekis.com
+0.0.0.0 www.balender3d.com
 0.0.0.0 www.balera.pl
 0.0.0.0 www.baletis.com
 0.0.0.0 www.balezka.com
@@ -51711,6 +51723,7 @@
 0.0.0.0 www.dichasialq.pl
 0.0.0.0 www.dicknorrismail.com
 0.0.0.0 www.diclinism.com
+0.0.0.0 www.dicsord-snows.com
 0.0.0.0 www.dicsord-tool.com
 0.0.0.0 www.dicsordnitros.com
 0.0.0.0 www.dicsrod-gifts.com
@@ -52204,6 +52217,7 @@
 0.0.0.0 www.dostawa.id63418494.info
 0.0.0.0 www.dostawa.id132598643.com
 0.0.0.0 www.dostawa.id193629916.com
+0.0.0.0 www.dostawanaczas.com
 0.0.0.0 www.dostawapl.safe-security.website
 0.0.0.0 www.dostawapoland-info.xyz
 0.0.0.0 www.dostawc-wjntedpolska-9842.dostawaypln003.space
@@ -56824,6 +56838,7 @@
 0.0.0.0 www.in-post-pl-myid272xs.lessformore.life
 0.0.0.0 www.in-post-pl-myid272xs.liaoyang.xyz
 0.0.0.0 www.in-post-pl-myid272xs.limello.live
+0.0.0.0 www.in-post-pl-myid272xs.lovelb.top
 0.0.0.0 www.in-post-pl-myid272xs.lu2396.top
 0.0.0.0 www.in-post-pl-myid272xs.nawkf.top
 0.0.0.0 www.in-post-pl-myid272xs.ohlucah.top
@@ -58019,6 +58034,7 @@
 0.0.0.0 www.inpost-pl-gse.id-2323.me
 0.0.0.0 www.inpost-pl-hid226ks.abin.shop
 0.0.0.0 www.inpost-pl-hid226ks.adsnet4all.com
+0.0.0.0 www.inpost-pl-hid226ks.antenaj3.xyz
 0.0.0.0 www.inpost-pl-hid226ks.avmoo.top
 0.0.0.0 www.inpost-pl-hid226ks.berare.shop
 0.0.0.0 www.inpost-pl-hid226ks.boeno.top
@@ -64931,6 +64947,7 @@
 0.0.0.0 www.my-blog.prosinv.site
 0.0.0.0 www.my-bnpparibas.com
 0.0.0.0 www.my-chatprogram.xyz
+0.0.0.0 www.my-diya-inc.com
 0.0.0.0 www.my-ininit.alxprogs.xyz
 0.0.0.0 www.my-order.biz
 0.0.0.0 www.my-paylife.at.cfolks.pl
@@ -65387,6 +65404,7 @@
 0.0.0.0 www.netfllipl.com
 0.0.0.0 www.netfllpl.com
 0.0.0.0 www.netflnza.com
+0.0.0.0 www.netflspl.com
 0.0.0.0 www.netfluxtvvv.com.pl
 0.0.0.0 www.netfluxtvvv.pl
 0.0.0.0 www.netflwpl.com
@@ -72476,6 +72494,8 @@
 0.0.0.0 www.profil-ocena.eu
 0.0.0.0 www.profile-posty.eu
 0.0.0.0 www.profinwest-pl.com
+0.0.0.0 www.profisthebitsera-po.betulaup.com
+0.0.0.0 www.profisthebitsera-po.fababeok.com
 0.0.0.0 www.profisthebitsera-po.lexogyic.com
 0.0.0.0 www.profisthebitsera-po.tidodaiw.com
 0.0.0.0 www.profit-blogs.info
@@ -83355,6 +83375,7 @@
 0.0.0.0 www.zyjetym.eu
 0.0.0.0 www.zywnosciowa-pl.work
 0.0.0.0 www.zyzlk.com
+0.0.0.0 www.zz3v1x.webwave.dev
 0.0.0.0 www.zzikwssx.s3.us-west-004.backblazeb2.com
 0.0.0.0 www.zzim.000webhostapp.com
 0.0.0.0 www.zzjwcn.wixsite.com
@@ -84441,6 +84462,7 @@
 0.0.0.0 zyjetym.eu
 0.0.0.0 zywnosciowa-pl.work
 0.0.0.0 zyzlk.com
+0.0.0.0 zz3v1x.webwave.dev
 0.0.0.0 zzikwssx.s3.us-west-004.backblazeb2.com
 0.0.0.0 zzim.000webhostapp.com
 0.0.0.0 zzjwcn.wixsite.com
