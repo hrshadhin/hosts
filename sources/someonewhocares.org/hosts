@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 15 Dec 2022 at 03:07:15 GMT
+# Last updated: Fri, 24 Feb 2023 at 08:44:13 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -2223,6 +2223,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 install.myvideotab.com
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
+0.0.0.0 interac-etransfer.net
 0.0.0.0 interhomes.fr
 0.0.0.0 interimairesssante.fr
 0.0.0.0 internwise.fr
@@ -2707,6 +2708,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 prk.roverinvolv.bid
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 probikesshop.fr
+0.0.0.0 profilenetflix.com
 0.0.0.0 profit-btc.org
 0.0.0.0 proflashdata.com			# Facebook trojan
 0.0.0.0 proidees.fr
@@ -9465,7 +9467,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
-0.0.0.0 udec.cl
 0.0.0.0 uedata.amazon.com
 0.0.0.0 uelbdc74fn.s.ad6media.fr
 0.0.0.0 ugo.eu-adcenter.net
@@ -10473,7 +10474,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www2.gorillavid.in
 0.0.0.0 www2.pubdirecte.com
 0.0.0.0 www2.tpgi.com.au
-0.0.0.0 www2.udec.cl
 0.0.0.0 www2.wyylde.com
 0.0.0.0 www2.zapadserver1.com
 0.0.0.0 www210.paypopup.com
