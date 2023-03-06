@@ -2,6 +2,7 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
@@ -2493,7 +2494,6 @@ analytics.shein.co.uk
 # Added February 7, 2023
 0.0.0.0 aax-dtb-cf.amazon-adsystem.com
 0.0.0.0 assets-jpcust.jwpsrv.com
-0.0.0.0 cdn.jwplayer.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 images.twnmm.com
 0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
