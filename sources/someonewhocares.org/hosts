@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 24 Feb 2023 at 08:44:13 GMT
+# Last updated: Tue, 14 Mar 2023 at 02:07:17 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -2416,7 +2416,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 mail.bangla.net
 0.0.0.0 mail.cyberh.fr
 0.0.0.0 mail.hallym.ac.kr
-0.0.0.0 mail.hz.zh.cn
 0.0.0.0 mail.imamu.edu.sa
 0.0.0.0 mail.interq.or.jp
 0.0.0.0 mail.ioc.ac.ru
@@ -2424,10 +2423,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 mail.pmo.ac.cn
 0.0.0.0 mail.siom.ac.cn
 0.0.0.0 mail.tropmet.res.in
-0.0.0.0 mail.tsinghua.edu.cn
 0.0.0.0 mail1.371.net
 0.0.0.0 maillots-ffoot-actu.fr
-0.0.0.0 mails.cneic.com.cn
 0.0.0.0 mailtrack.fr
 0.0.0.0 main.exosrv.com
 0.0.0.0 maisonstravaux.fr
@@ -2929,6 +2926,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tiplanet.fr
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
+0.0.0.0 toppillstore.com
 0.0.0.0 toprxshopplace.com
 0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info
@@ -3169,7 +3167,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
-0.0.0.0 www.siom.ac.cn
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.tanger.com.br
@@ -4593,10 +4590,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.baidu.com
+0.0.0.0 a.blesk.cz
 0.0.0.0 a.boom.ro
 0.0.0.0 a.cctv.com
+0.0.0.0 a.centrum.cz
 0.0.0.0 a.cntv.cn
+0.0.0.0 a.denik.cz
 0.0.0.0 a.dynad.net
+0.0.0.0 a.iprima.cz
 0.0.0.0 a.kerg.net
 0.0.0.0 a.libertystmedia.com
 0.0.0.0 a.ligatus.com
@@ -4606,6 +4607,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
 0.0.0.0 a.rad.msn.com
+0.0.0.0 a.slunecnice.cz
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
