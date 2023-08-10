@@ -825,7 +825,6 @@
 0.0.0.0 a.faymobi.com
 0.0.0.0 fdn-en.net
 0.0.0.0 ads.feedly.com
-0.0.0.0 feylibertad.org
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgoogle.com
 0.0.0.0 www.fgoogle.com
@@ -2229,9 +2228,6 @@
 0.0.0.0 amusingdates.net
 0.0.0.0 honey-date4u.life
 
-# Added August 3, 2022
-0.0.0.0 secur.hopp.to
-
 # Added August 9, 2022
 0.0.0.0 shopsplumbing.com
 
@@ -2501,7 +2497,6 @@ analytics.shein.co.uk
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.indexww.com
-0.0.0.0 encrypted-tbn1.gstatic.com
 
 # Added March 25, 2023
 0.0.0.0 wpad.www.tendawifi.com
@@ -2521,10 +2516,8 @@ analytics.shein.co.uk
 0.0.0.0 use1.fptls3.com
 
 # Added April 7, 2023
-0.0.0.0 turnip.cdn.turner.com
 0.0.0.0 d2uap9jskdzp2.cloudfront.net
 0.0.0.0 steadfastseat.com
-0.0.0.0 medium.ngtv.io
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 eq97f.publishers.tremorhub.com
 
@@ -2559,17 +2552,6 @@ analytics.shein.co.uk
 0.0.0.0 ads-tm-glb.click
 0.0.0.0 cbox4.ignorelist.com
 0.0.0.0 hsdps.cc
-0.0.0.0 slotmagie.de
-0.0.0.0 www.slotmagie.de
-0.0.0.0 slotmagie.zendesk.com
-0.0.0.0 tubepornclassics.com
-0.0.0.0 www.tubepornclassics.com
-0.0.0.0 ww1.tubepornclassics.com
-0.0.0.0 ww7.tubepornclassics.com
-0.0.0.0 ww12.tubepornclassics.com
-0.0.0.0 kwrn.eu
-0.0.0.0 www.kwrn.eu
-0.0.0.0 profile.omega.kwrn.eu
 0.0.0.0 api.sprig.com
 
 # Added May 15, 2023
@@ -2606,3 +2588,22 @@ analytics.shein.co.uk
 # Added June 13, 2023
 0.0.0.0 assistant-chronopost.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
+
+# Added July 4, 2023
+0.0.0.0 stmicroelectronics.d3.sc.omtrdc.net
+
+0.0.0.0 giyhub.com
+0.0.0.0 d2wzkjnj9pfptq.cloudfront.net
+0.0.0.0 storiesnexus.com
+0.0.0.0 rumadel.com
+
+# Added August 8, 2023
+0.0.0.0 ms4.applvn.com
+0.0.0.0 adsninjacdn.b-cdn.net
+0.0.0.0 cdn.adsninja.ca
+0.0.0.0 nom.telemetrydeck.com
+0.0.0.0 api.ibeat-analytics.com
+0.0.0.0 mads.amazon.com
+
+# Add August 9, 2023
+0.0.0.0 s2.bl-1.com
