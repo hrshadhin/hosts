@@ -864,7 +864,7 @@
 0.0.0.0 www.girlstofap.ga
 0.0.0.0 git-hub.co
 0.0.0.0 githb.co
-0.0.0.0 superlogout.github.io
+
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 www.goodblock.gladly.io
 0.0.0.0 ad-dev.globalnoticias.pt
@@ -2426,8 +2426,8 @@
 0.0.0.0 vs.hotstar.com
 
 # Added December 11, 2022
-analytics.shein.com
-analytics.shein.co.uk
+0.0.0.0 analytics.shein.com
+0.0.0.0 analytics.shein.co.uk
 
 # Added December 29, 2022
 0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
@@ -2518,7 +2518,6 @@ analytics.shein.co.uk
 # Added April 7, 2023
 0.0.0.0 d2uap9jskdzp2.cloudfront.net
 0.0.0.0 steadfastseat.com
-0.0.0.0 licensing.bitmovin.com
 0.0.0.0 eq97f.publishers.tremorhub.com
 
 # Added April 13, 2023
@@ -2608,14 +2607,28 @@ analytics.shein.co.uk
 # Add August 9, 2023
 0.0.0.0 s2.bl-1.com
 
-# Added August 16, 2023
-0.0.0.0 madqudden.com
+# Added August 10, 2023
+0.0.0.0 w61.1piecemanga.com
+0.0.0.0 fbet.com
+0.0.0.0 stemboastfulrattle.com
+0.0.0.0 onwardrespirationcommandment.com
 
-# Added September 5, 2023
-0.0.0.0 happy-porn.com
-0.0.0.0 s.permsrv.com
-0.0.0.0 jerk24.com
-0.0.0.0 slidecaffeinecrown.com
-0.0.0.0 p2997.nonotro.name
-0.0.0.0 peakpushedancestor.com
-0.0.0.0 easilysafety.com
+# Added October 13, 2023
+0.0.0.0 s.dmmew.com
+
+# Added November 2, 2023
+0.0.0.0 run.cntxtfl.com
+0.0.0.0 live-manifests-lln.warnermediacdn.com
+0.0.0.0 live-manifests-aka.warnermediacdn.com
+0.0.0.0 logs.browser-intake-datadoghq.com
+
+# Added November 3, 2023
+0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
+0.0.0.0 cpm.didna.io
+0.0.0.0 hb.minutemedia-prebid.com
+0.0.0.0 ox-rtb-us-east1.openx.net
+0.0.0.0 ox-rtb-us-east4.openx.net
+0.0.0.0 pbs.nextmillmedia.com
+0.0.0.0 report2.hb.brainlyads.com
+0.0.0.0 ssp-sync.criteo.com
+0.0.0.0 st.pubmatic.com
