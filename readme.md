@@ -25,8 +25,8 @@
 This repository consolidates several reputable `hosts` files, and merges them
 into a unified hosts file with duplicates removed.
 
-* Last updated: **December 09 2023**.
-* Here's the [raw hosts file](https://raw.githubusercontent.com/hrshadhin/hosts/master/hosts) containing 696,781 entries.
+* Last updated: **December 10 2023**.
+* Here's the [raw hosts file](https://raw.githubusercontent.com/hrshadhin/hosts/master/hosts) containing 696,783 entries.
 * This project is heavily inspired by [StevenBlack/hosts](https://github.com/StevenBlack/hosts/) project.
 
 ## Sources of hosts data unified in this variant
