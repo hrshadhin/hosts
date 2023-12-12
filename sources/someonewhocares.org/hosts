@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 10 Dec 2023 at 02:03:56 GMT
+# Last updated: Tue, 12 Dec 2023 at 06:23:19 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -2080,6 +2080,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fanniemae.fr
 0.0.0.0 fasola.fr
 0.0.0.0 fclb.fr
+0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 fedgroceryrebate.com
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 fengyixin.com
@@ -8185,6 +8186,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 microsoft-home-en.com
 0.0.0.0 microsoft-online-en-us.com
 0.0.0.0 microsoft-ware.com
+0.0.0.0 microwinds.de
 0.0.0.0 mightymagoo.com
 0.0.0.0 milyondolar.com
 0.0.0.0 minden-egyben.com
